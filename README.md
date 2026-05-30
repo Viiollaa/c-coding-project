@@ -10,6 +10,7 @@ I use C to better understand the fundamentals of data structures and how code in
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Set Intersection Counter](set-intersection/)** | An optimized counting algorithm that uses boolean bitmaps to find intersecting character sets in linear time. | C |
+| **[Project Scheduling](project-scheduling/)** | A task scheduler using Kahn's Algorithm (Topological Sort) to determine project duration based on task dependencies and the critical path. | C |
 
 ---
 *Building this repository to sharpen my problem-solving skills in a low-level environment.*
